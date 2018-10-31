@@ -1,0 +1,20 @@
+body{
+  background: pink;
+  height: 100%;
+}
+.box{
+  width: 300px;
+  height: 200px;
+  background: red;
+  h2{
+    color: aqua;
+    font-size: 24px;
+    display: block;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    background: darkcyan;
+
+  }
+}
